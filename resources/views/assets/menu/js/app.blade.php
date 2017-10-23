@@ -1,0 +1,1 @@
+<script src="{{ asset('assets/menu/js/Sidebar-Menu.js') }}"></script>
